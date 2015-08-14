@@ -1,0 +1,27 @@
+<?php
+
+include("config/maintenance.php");
+
+$core = true;
+
+if($maintenance!=$core){ 
+?>
+
+<?php include("themes/default/header.theme.block.php"); ?>
+
+
+Here you put the HTML content, you can also include php scripts!
+
+
+<?php include("themes/default/footer.theme.block.php"); ?>
+
+<?php
+
+}
+
+else{ 
+include("config/maintenance-message.php");
+
+};
+
+?>
