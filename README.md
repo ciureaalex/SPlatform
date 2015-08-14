@@ -1,6 +1,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # SPlatform
 A verry simple CMS based on PHP
+Website: http://splatform.ml/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 What is SPlatform ?
