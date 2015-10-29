@@ -1,1 +1,0 @@
-If you add a module with a special admin page you need to navigate to /adm1n/functions and edit menu.php and paste the code specified in the module page at Admin Panel section.

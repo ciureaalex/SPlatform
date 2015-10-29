@@ -1,0 +1,1 @@
+<?php include("themes/rubine-lite/footer.theme.block.php"); ?>
