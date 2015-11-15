@@ -1,1 +1,1 @@
-<?php include("themes/rubine-lite/header.theme.block.php"); ?>
+<?php include("themes/default/header.theme.block.php"); ?>

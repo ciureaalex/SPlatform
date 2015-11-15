@@ -1,0 +1,2 @@
+RewriteBase /
+Errordocument 404 /core/config/404.php

@@ -1,3 +1,9 @@
+<div class="col-lg-8">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Content</h3>
+</div>
+<div class="panel-body">
 <p>Lorem ipsum dolor sit amet, mediocrem gloriatur ne sed, ea vis inani diceret. In pri wisi aliquam accommodare, mea error errem electram ei, an sed legere probatus! Molestie eloquentiam delicatissimi ne pro, pro cu numquam invidunt appellantur? Usu liber temporibus ad, eu pro atqui quaeque pericula.
   </p>
   <p>
@@ -40,3 +46,6 @@ An legere denique expetenda nam? Velit lucilius vix ut. Quando semper vel te? Ex
   <p>
 At eum ipsum incorrupte intellegebat, delenit corpora facilisis in eos. Te fugit evertitur mei. An eam case minim iracundia. Et dicit aperiam antiopam vim, vim in vocibus appetere. Posse signiferumque nam et, labitur civibus reprehendunt pro no, sed an munere quaeque corrumpit! Habeo dicat abhorreant id pro, cu quot viris per, qui quidam inermis scripserit id?
 </p>
+</div>
+</div>
+</div><!-- COL-LG-8 -->

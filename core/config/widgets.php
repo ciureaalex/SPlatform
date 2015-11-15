@@ -1,8 +1,20 @@
-<aside id="widget-1" class="widget widget_search">
-	This is a widget without title
+<div class="col-lg-4">
 
-</aside>
-<aside id="widget-2" class="widget widget_recent_entries">		<h3 class="widgettitle"><span>Widget title</span></h3>		<ul>
-					This is a widget with title
-				</ul>
-		</aside>
+<!-- ==== -->
+<div class="panel panel-default">
+<div class="panel-body">
+This is a widget without a title
+</div>
+</div>
+<!-- ==== -->
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Widget Title</h3>
+</div>
+<div class="panel-body">
+This is a widget with a title
+</div>
+</div>
+<!-- ==== -->
+
+</div><!-- COL-LG-4 -->

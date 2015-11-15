@@ -54,12 +54,7 @@ height: 0px!important;
 display: none;
 }
 		</style>
-		Connecting to SPlatform servers...<br>
-		Connected!<br>
-		Downloading the update...<br>
-        Server: Wrong arguments. Closing the connection.<br>
-Connection terminated!<br>
-Done with errors!<br>
+		Code not found.
                 		<?php
 	} else {
 	?>
