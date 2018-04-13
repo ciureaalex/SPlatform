@@ -1,1 +1,0 @@
-<?php include("core/config/theme/blocks/head-tag.php"); ?>

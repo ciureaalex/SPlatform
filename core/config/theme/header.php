@@ -1,1 +1,0 @@
-<?php include("themes/default/header.theme.block.php"); ?>

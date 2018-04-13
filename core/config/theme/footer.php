@@ -1,1 +1,0 @@
-<?php include("themes/default/footer.theme.block.php"); ?>
