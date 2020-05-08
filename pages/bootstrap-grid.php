@@ -1,0 +1,281 @@
+<?php
+$pgtitle="Bootstrap grid";
+$pgtype="website";
+$pgdescription="An example of bootstrap grid";
+$pglocale="en_US";
+$content="
+<div class='col-lg-8'>
+<div class='card'>
+<div class='card-header'>
+Bootstrap Grid
+</div>
+  <div class='card-body'>
+<div class='row'>
+                    <div class='col-lg-12 text-center'>
+                    <div class='card'>
+
+                    <div class='card-body'>
+                                .col-lg-12
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-6 text-center'>
+                    <div class='card'>
+
+                    <div class='card-body'>
+                                .col-lg-6
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-6 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-6
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-4 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-4
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-4 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-4
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-4 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-4
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-3 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-3
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-3 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-3
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-3 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-3
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-3 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-3
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-2 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-2
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-2 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-2
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-2 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-2
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-2 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-2
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-2 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-2
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-2 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-2
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-1 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-1
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-8 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-8
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-4 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-4
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class='row'>
+                    <div class='col-lg-3 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-3
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-6 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-6
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-lg-3 text-center'>
+                        <div class='card'>
+                            <div class='card-body'>
+                                .col-lg-3
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+</div>
+</div>
+</div><!-- COL-LG-8 -->
+";
+?>
